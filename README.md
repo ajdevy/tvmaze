@@ -1,1 +1,1 @@
-# tvmaze
+# tv-maze-app
